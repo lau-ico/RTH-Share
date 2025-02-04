@@ -1,0 +1,512 @@
+categ;valor;descr;descrES;edicio;ordre
+AC;A;A: No infiltra a la muscular;A: No infiltra a la muscular;NULL;NULL
+AC;B;B: Infiltra a la muscular però no als ganglis;B: Infiltra a la muscular pero no a los ganglios;NULL;NULL
+AC;B1;B1: No infiltra serosa ni grassa;B1: No infiltra serosa ni grasa;NULL;NULL
+AC;B2;B2: Infiltra serosa o grassa perirrectal;B2: Infiltra serosa o grasa perirrectal;NULL;NULL
+AC;B3;B3: Afecta òrgans veïns;B3: Afecta órganos vecinos;NULL;NULL
+AC;C;C: Afectació ganglionar;C: Afectación ganglionar;NULL;NULL
+AC;C1;C1: A, B1 amb afectació de menys de 4 ganglis;C1: A, B1 con afectación de menos de 4 ganglios;NULL;NULL
+AC;C2;C2: A, B1, B2 amb afectació de 4 o més ganglis;C2: A, B1, B2 con afectación de 4 o más ganglios;NULL;NULL
+AC;C3;C3: A, B1, B2, B3 amb afectació de ganglis mesentèrics;C3: A, B1, B2, B3 con afectación de ganglios mesentéricos;NULL;NULL
+AC;D;D: Metàstasi a distància;D: Metástasis a distancia;NULL;NULL
+AC;NULL;NULL;NULL;NULL;NULL
+ARBOR_E;I;I: Afectació d’una sola regió ganglionar;I: Afectación de una sola región ganglionar;NULL;NULL
+ARBOR_E;IE;IE: Afectació d’un lloc extranodal contigu al lloc ganglionar afectat;IE: Afectación de un lugar extranodal contiguo al lugar ganglionar afectado;NULL;NULL
+ARBOR_E;II;II: Afectació de ? 2 regions ganglionars del mateix costat del diafragma;II: Afectación de ? 2 regiones ganglionares del mismo lado del diafragma;NULL;NULL
+ARBOR_E;IIBulky;IIBulky: Massa nodal única >10cm o >1/3 d'ample del mediastí;IIBulky: Masa nodal única >10cm o >1/3 de ancho del mediastino;NULL;NULL
+ARBOR_E;IIE;IIE: Afectació d’un òrgan i ? 1 regió ganglionar del mateix costat del diafragma;IIE: Afectación de un órgano y ? 1 región ganglionar del mismo lado del diafragma;NULL;NULL
+ARBOR_E;III;III: Afectació de regions ganglionars als dos costats del diafragma;III: Afectación de regiones ganglionares a ambos lados del diafragma;NULL;NULL
+ARBOR_E;III1;III1: Amb o sense nòduls esplènics, hil·liars, celíacs o portals;III1: Con o sin nódulos esplénicos, hiliares, celíacos o portales;NULL;NULL
+ARBOR_E;III2;III2: Amb nòduls paraaòrtics, ilíacs o mesentèrics;III2: Con  nódulos paraaórticos, ilíacos o mesentéricos;NULL;NULL
+ARBOR_E;IIIS;IIIS: Amb afectació de melsa;IIIS: Con afectación de bazo;NULL;NULL
+ARBOR_E;IV;IV: Amb llocs extraganglionars més enllà dels designats en E;IV: Con lugares extraganglionares más allá de los designados en E;NULL;NULL
+ARBOR_E;NULL;NULL;NULL;NULL;NULL
+ARBOR_N;A;A: Sense simptomes;A: Sin síntomas;NULL;NULL
+ARBOR_N;B;B: Febre, sudoració profusa o pèrdua de pes;B: Fiebre, soduración profusa o pérdida de peso;NULL;NULL
+ARBOR_N;NULL;NULL;NULL;NULL;NULL
+B_CARREGA;255;Desconegut o indeterminat;Desconocido o indeterminado;NULL;255
+B_CARREGA;1;B0: molt baixa;B0: muy baja;NULL;NULL
+B_CARREGA;2;B1: baixa;B1: baja;NULL;NULL
+B_CARREGA;3;B2: alta;B2: alta;NULL;NULL
+B_CARREGA;NULL;NULL;NULL;NULL;NULL
+BINET;A;A: Ni anèmia (Hb<11 g/dL) ni plaquetopènia (<100x10^9/L). Afectació de <3 àrees ganglionars;A: Ni anemia (Hb<11 g/dL) ni plaquetopenia (<100x10^9/L). Afectación de <3 áreas ganglionares;NULL;NULL
+BINET;B;B: Ni anèmia ni plaquetopènia. Afectació de >=3 àrees ganglionars;B: Ni anemia ni plaquetopenia. Afectación de >=3 áreas ganglionares;NULL;NULL
+BINET;C;C: Anèmia i/o plaquetopènia +/- afectació d'una o més àrees ganglionars;C: Anemia y/o plaquetopenia +/- afectación de una o más áreas ganglionares;NULL;NULL
+BINET;NULL;NULL;NULL;NULL;NULL
+BRAF;0;Wildtype;Wildtype;NULL;NULL
+BRAF;1;Mutat;Mutado;NULL;NULL
+BRAF;254;Indeterminat;Indeterminado;NULL;NULL
+BRAF;255;Desconegut;Desconocido;NULL;NULL
+BRAF;NULL;NULL;NULL;NULL;NULL
+BRCA_PLUS;NULL;NULL;NULL;NULL;1
+BRCA_PLUS;0;Negatiu;Negativo;NULL;2
+BRCA_PLUS;1;Positiu;Positivo;NULL;3
+BRCA_PLUS;254;Indeterminat;Indeterminado;NULL;6
+BRCA_PLUS;255;Desconegut;Desconocido;NULL;7
+BRCA1;NULL;NULL;NULL;NULL;1
+BRCA1;0;Negatiu;Negativo;NULL;2
+BRCA1;1;Positiu;Positivo;NULL;3
+BRCA1;254;Indeterminat;Indeterminado;NULL;6
+BRCA1;255;Desconegut;Desconocido;NULL;7
+BRCA2;NULL;NULL;NULL;NULL;1
+BRCA2;0;Negatiu;Negativo;NULL;2
+BRCA2;1;Positiu;Positivo;NULL;3
+BRCA2;254;Indeterminat;Indeterminado;NULL;6
+BRCA2;255;Desconegut;Desconocido;NULL;7
+BRESLOW;255;Desconegut;Desconocido;NULL;255
+BRESLOW;I;I: < 1mm;I: < 1mm;NULL;NULL
+BRESLOW;II;II: 1mm - 2mm;II: 1mm - 2mm;NULL;NULL
+BRESLOW;III;III: 2mm - 4mm;III: 2mm - 4mm;NULL;NULL
+BRESLOW;IV;IV: > 4mm;IV: > 4mm;NULL;NULL
+BRESLOW;NULL;NULL;NULL;NULL;NULL
+CALR;0;Negatiu;Negativo;NULL;NULL
+CALR;1;Positiu;Positivo;NULL;NULL
+CALR;255;Desconegut o indeterminat;Desconocido o indeterminado;NULL;NULL
+CALR;NULL;NULL;NULL;NULL;NULL
+CENTRES;1;Hospital Santa Caterina;Hospital Santa Caterina;NULL;NULL
+CENTRES;2;Hospital de Palamós;Hospital de Palamós;NULL;NULL
+CENTRES;3;Hospital Sant Jaume d’Olot;Hospital Sant Jaume d’Olot;NULL;NULL
+CENTRES;4;Hospital Dr. Josep Trueta;Hospital Dr. Josep Trueta;NULL;NULL
+CENTRES;5;Clínica Girona;Clínica Girona;NULL;NULL
+CENTRES;6;Hospital de Figueres;Hospital de Figueres;NULL;NULL
+CENTRES;7;Hospital Comarcal de la Selva – Blanes;Hospital Comarcal de la Selva – Blanes;NULL;NULL
+CENTRES;8;Clínica Bofill;Clínica Bofill;NULL;NULL
+CENTRES;9;Centre Quirúrgic Onyar (antiga Clínica Aliança);Centre Quirúrgic Onyar (antiga Clínica Aliança);NULL;NULL
+CENTRES;10;Clínica Salus Infirmorum;Clínica Salus Infirmorum;NULL;NULL
+CENTRES;11;CTD;CTD;NULL;NULL
+CENTRES;12;Ambulatori Güell;Ambulatori Güell;NULL;NULL
+CENTRES;13;Gabinet Diagnòstic;Gabinet Diagnòstic;NULL;NULL
+CENTRES;14;Hospital de Bellvitge;Hospital de Bellvitge;NULL;NULL
+CENTRES;15;Hospital de Sant Pau;Hospital de Sant Pau;NULL;NULL
+CENTRES;16;Clínica Santa Creu;Clínica Santa Creu;NULL;NULL
+CENTRES;17;Clínica Dexeus;Clínica Dexeus;NULL;NULL
+CENTRES;18;Sagrada Familia – BCN;Sagrada Familia – BCN;NULL;NULL
+CENTRES;19;Hospital de Can Ruti;Hospital de Can Ruti;NULL;NULL
+CENTRES;20;Hospital Parc Taulí;Hospital Parc Taulí;NULL;NULL
+CENTRES;21;Hospital de Campdevànol;Hospital de Campdevànol;NULL;NULL
+CENTRES;22;Hospital de la Vall d’Hebron;Hospital de la Vall d’Hebron;NULL;NULL
+CENTRES;23;Consulta privada Dr. Viladiu;Consulta privada Dr. Viladiu;NULL;NULL
+CENTRES;24;Clínica Quirón;Clínica Quirón;NULL;NULL
+CENTRES;25;Hospital de Vic;Hospital de Vic;NULL;NULL
+CENTRES;26;Hospital Clínic i Provincial;Hospital Clínic i Provincial;NULL;NULL
+CENTRES;27;Clínica Corachán;Clínica Corachán;NULL;NULL
+CENTRES;28;Clínica Platón;Clínica Platón;NULL;NULL
+CENTRES;29;Hospital de Sant Celoni;Hospital de Sant Celoni;NULL;NULL
+CENTRES;30;Hospital Sant Jaume de Calella;Hospital Sant Jaume de Calella;NULL;NULL
+CENTRES;31;Hospital del Mar;Hospital del Mar;NULL;NULL
+CENTRES;32;Registro Nacional de Tumores Infantiles;Registro Nacional de Tumores Infantiles;NULL;NULL
+CENTRES;33;Fundació Puigvert;Fundació Puigvert;NULL;NULL
+CENTRES;34;Clínica Sagrat Cor;Clínica Sagrat Cor;NULL;NULL
+CENTRES;35;Hospital Sant Joan de Deu;Hospital Sant Joan de Deu;NULL;NULL
+CENTRES;36;Geriàtric Creu de Palau – Girona;Geriàtric Creu de Palau – Girona;NULL;NULL
+CENTRES;37;Centre Dermatològic Girona;Centre Dermatològic Girona;NULL;NULL
+CENTRES;38;Teknon;Teknon;NULL;NULL
+CENTRES;40;CEESCAT;CEESCAT;NULL;NULL
+CENTRES;41;Hospital Moisés Broggi;Hospital Moisés Broggi;NULL;NULL
+CENTRES;42;CSS Bernat Jaume Figueres;CSS Bernat Jaume Figueres;NULL;NULL
+CENTRES;43;CSS Gent Gran Palamós;CSS Gent Gran Palamós;NULL;NULL
+CENTRES;44;Hospital de Mataró;Hospital de Mataró;NULL;NULL
+CENTRES;96;ABS;ABS;NULL;NULL
+CENTRES;97;privat Catalunya;privado Catalunya;NULL;NULL
+CENTRES;98;Altres països;Otros paises;NULL;NULL
+CENTRES;99;Desconegut;Desconocido;NULL;NULL
+CENTRES;NULL;NULL;NULL;NULL;NULL
+CLARK;255;Desconegut;Desconocido;NULL;255
+CLARK;I;"I: Lesions que només comprometen l’epidermis (melanoma in situ); no invasiu";"I: Lesiones que solo compromenten epidermis; no invasivo";NULL;NULL
+CLARK;II;"II: Invasió de la dermis papil·lar; no arriba a la interfície dèrmica papil·lar reticular";"II: Invasión de la dermis papilar; no llega a la interfaz dérmica papilar reticular";NULL;NULL
+CLARK;III;III: La invasió omple i expandeix la dermis papil·lar, però no penetra la dermis reticular;III: La invasión llena y expande la dermis papilar, pero no penetra dermis reticular;NULL;NULL
+CLARK;IV;IV: Invasió de la dermis reticular, però no del teixit subcutani;IV: Invasión de la dermis reticular, pero no del tejido subcutaneo;NULL;NULL
+CLARK;NULL;NULL;NULL;NULL;NULL
+CLARK;V;V: Invasió a través de la dermis reticular del teixit subcutani;V: Invasión a través de la dermis reticular del tejido subcutaneo;NULL;NULL
+COMITE;1;Sí;Sí;NULL;NULL
+COMITE;NULL;NULL;NULL;NULL;NULL
+COVID;0;No;No;NULL;NULL
+COVID;1;Sí;Sí;NULL;NULL
+COVID;NULL;NULL;NULL;NULL;NULL
+EGFR;0;Wildtype;Wildtype;NULL;NULL
+EGFR;1;Mutat;Mutado;NULL;NULL
+EGFR;254;Indeterminat;Indeterminado;NULL;NULL
+EGFR;255;Desconegut;Desconocido;NULL;NULL
+EGFR;NULL;NULL;NULL;NULL;NULL
+ESTADI;0;0;0;7, 8;NULL
+ESTADI;0a;0a;0a;7, 8;NULL
+ESTADI;0is;0is;0is;7, 8;NULL
+ESTADI;I;I;I;7, 8;NULL
+ESTADI;IA;IA;IA;7, 8;NULL
+ESTADI;IA1;IA1;IA1;7, 8;NULL
+ESTADI;IA2;IA2;IA2;7, 8;NULL
+ESTADI;IA3;IA3;IA3;7, 8;NULL
+ESTADI;IB;IB;IB;7, 8;NULL
+ESTADI;IB1;IB1;IB1;7, 8;NULL
+ESTADI;IB2;IB2;IB2;7, 8;NULL
+ESTADI;IC;IC;IC;7, 8;NULL
+ESTADI;II;II;II;7, 8;NULL
+ESTADI;IIA;IIA;IIA;7, 8;NULL
+ESTADI;IIA1;IIA1;IIA1;7, 8;NULL
+ESTADI;IIA2;IIA2;IIA2;7, 8;NULL
+ESTADI;IIB;IIB;IIB;7, 8;NULL
+ESTADI;IIC;IIC;IIC;7, 8;NULL
+ESTADI;III;III;III;7, 8;NULL
+ESTADI;IIIA;IIIA;IIIA;7, 8;NULL
+ESTADI;IIIA1;IIIA1;IIIA1;7, 8;NULL
+ESTADI;IIIA2;IIIA2;IIIA2;7, 8;NULL
+ESTADI;IIIB;IIIB;IIIB;7, 8;NULL
+ESTADI;IIIC;IIIC;IIIC;7, 8;NULL
+ESTADI;IIIC1;IIIC1;IIIC1;7, 8;NULL
+ESTADI;IIIC2;IIIC2;IIIC2;7, 8;NULL
+ESTADI;IIID;IIID;IIID;7, 8;NULL
+ESTADI;IV;IV;IV;7, 8;NULL
+ESTADI;IVA;IVA;IVA;7, 8;NULL
+ESTADI;IVB;IVB;IVB;7, 8;NULL
+ESTADI;IVC;IVC;IVC;7, 8;NULL
+ESTADI;NULL;NULL;NULL;NULL;NULL
+ESTADI;Ocult.;Ocult.;Ocult.;7, 8;NULL
+FIGO;255;Desconegut;Desconocido;NULL;255
+FIGO;0;0;0;NULL;NULL
+FIGO;I;I;I;NULL;NULL
+FIGO;IA;IA;IA;NULL;NULL
+FIGO;IA1;IA1;IA1;NULL;NULL
+FIGO;IA2;IA2;IA2;NULL;NULL
+FIGO;IA3;IA3;IA3;NULL;NULL
+FIGO;IB;IB;IB;NULL;NULL
+FIGO;IB1;IB1;IB1;NULL;NULL
+FIGO;IB2;IB2;IB2;NULL;NULL
+FIGO;IC;IC;IC;NULL;NULL
+FIGO;II;II;II;NULL;NULL
+FIGO;IIA;IIA;IIA;NULL;NULL
+FIGO;IIA1;IIA1;IIA1;NULL;NULL
+FIGO;IIA2;IIA2;IIA2;NULL;NULL
+FIGO;IIB;IIB;IIB;NULL;NULL
+FIGO;IIB1;IIB1;IIB1;NULL;NULL
+FIGO;IIB2;IIB2;IIB2;NULL;NULL
+FIGO;IIC;IIC;IIC;NULL;NULL
+FIGO;III;III;III;NULL;NULL
+FIGO;IIIA;IIIA;IIIA;NULL;NULL
+FIGO;IIIA1;IIIA1;IIIA1;NULL;NULL
+FIGO;IIIA1i;IIIA1i;IIIA1i;NULL;NULL
+FIGO;IIIA1ii;IIIA1ii;IIIA1ii;NULL;NULL
+FIGO;IIIA2;IIIA2;IIIA2;NULL;NULL
+FIGO;IIIB;IIIB;IIIB;NULL;NULL
+FIGO;IIIB1;IIIB1;IIIB1;NULL;NULL
+FIGO;IIIB2;IIIB2;IIIB2;NULL;NULL
+FIGO;IIIC;IIIC;IIIC;NULL;NULL
+FIGO;IIIC1;IIIC1;IIIC1;NULL;NULL
+FIGO;IIIC1i;IIIC1i;IIIC1i;NULL;NULL
+FIGO;IIIC1ii;IIIC1ii;IIIC1ii;NULL;NULL
+FIGO;IIIC2;IIIC2;IIIC2;NULL;NULL
+FIGO;IIIC2i;IIIC2i;IIIC2i;NULL;NULL
+FIGO;IIIC2ii;IIIC2ii;IIIC2ii;NULL;NULL
+FIGO;IV;IV;IV;NULL;NULL
+FIGO;IVA;IVA;IVA;NULL;NULL
+FIGO;IVB;IVB;IVB;NULL;NULL
+FIGO;IVC;IVC;IVC;NULL;NULL
+FIGO;NULL;NULL;NULL;NULL;NULL
+G_PN;0;Negatiu;Negativo;NULL;NULL
+G_PN;1;Positiu;Positivo;NULL;NULL
+G_PN;9;Desconegut;Desconocido;NULL;NULL
+G_PN;NULL;NULL;NULL;NULL;NULL
+G_SN;0;No;No;NULL;NULL
+G_SN;1;Sí;Sí;NULL;NULL
+G_SN;9;Desconegut;Desconocido;NULL;NULL
+G_SN;NULL;NULL;NULL;NULL;NULL
+GLEASON;1;1: 6 o menys (càncer de baix grau);1: 6 o menos (cáncer de grado bajo);NULL;1
+GLEASON;2;2: 3 + 4 = 7 (càncer de mitjà grau);2: 3 + 4 = 7 (cáncer de grado medio);NULL;2
+GLEASON;3;3: 4 +3 = 7 (càncer de mitjà grau);3: 4 +3 = 7 (cáncer de grado medio);NULL;3
+GLEASON;4;4: 8 (càncer de grau alt);4: 8 (cáncer de grado alto);NULL;4
+GLEASON;5;5: 9 a 10 (càncer de grau alt);5: 9 a 10 (cáncer de grado alto);NULL;5
+GLEASON;255;Desconegut;Desconocido;NULL;255
+GLEASON;NULL;NULL;NULL;NULL;NULL
+GRAU_DIF;1;1: Ben diferenciat;1: Bien diferenciado;NULL;NULL
+GRAU_DIF;2;2: Moderadament diferenciat;2: Moderadamente diferenciado;NULL;NULL
+GRAU_DIF;3;3: Pobrament diferenciat;3: Pobremente diferenciado;NULL;NULL
+GRAU_DIF;4;4: Indiferenciat, anaplàstic;4: Indiferenciado, anaplástico;NULL;NULL
+GRAU_DIF;5;"5: Cèl·lula T; precursor T";"5: Célula T; precursor T";NULL;NULL
+GRAU_DIF;6;"6: Cèl·lula B, Pre-B; precursor B";"6: Célula B, Pre-B; precursor B";NULL;NULL
+GRAU_DIF;7;"7: Cèl·lula nul·la; No T i no B";"7: Célula nula; No T y no B";NULL;NULL
+GRAU_DIF;8;8: Cèl·lules NK  (cèl·lula assassina natural);8: Células NK (célula asesina natural);NULL;NULL
+GRAU_DIF;9;9: No especificat;9: No especificado;NULL;NULL
+GRAU_DIF;NULL;NULL;NULL;NULL;NULL
+GRAU_SNC;I;I;I;NULL;NULL
+GRAU_SNC;II;II;II;NULL;NULL
+GRAU_SNC;III;III;III;NULL;NULL
+GRAU_SNC;IV;IV;IV;NULL;NULL
+GRAU_SNC;NULL;NULL;NULL;NULL;NULL
+GRAU_TNE;1;G1: Baix grau;G1: Grado bajo;NULL;1
+GRAU_TNE;2;G2: Grau intermedi;G2: Grado intermedio;NULL;2
+GRAU_TNE;3;G3: Alt grau;G3: Grado alto;NULL;3
+GRAU_TNE;255;Desconegut;Desconocido;NULL;255
+GRAU_TNE;NULL;NULL;NULL;NULL;NULL
+GRAU_URO;3;Baix grau;Grado bajo;NULL;NULL
+GRAU_URO;4;Indeterminat o desconegut;Indeterminado o desconocido;NULL;NULL
+GRAU_URO;5;Alt grau;Grado alto;NULL;NULL
+GRAU_URO;NULL;NULL;NULL;NULL;NULL
+H_PYLORI;0;Negatiu;Negativo;NULL;NULL
+H_PYLORI;1;Positiu;Positivo;NULL;NULL
+H_PYLORI;255;Desconegut o indeterminat;Desconocido o indeterminado;NULL;NULL
+H_PYLORI;NULL;NULL;NULL;NULL;NULL
+HER2;NULL;NULL;NULL;NULL;1
+HER2;0;Negatiu;Negativo;NULL;2
+HER2;1;Positiu;Positivo;NULL;3
+HER2;254;Indeterminat;Indeterminado;NULL;6
+HER2;255;Desconegut;Desconocido;NULL;7
+IPI;0;0;0;NULL;0
+IPI;1;1;1;NULL;1
+IPI;2;2;2;NULL;2
+IPI;3;3;3;NULL;3
+IPI;4;4;4;NULL;4
+IPI;5;5;5;NULL;5
+IPI;6;6;6;NULL;6
+IPI;7;7;7;NULL;7
+IPI;8;8;8;NULL;8
+IPI;9;9;9;NULL;9
+IPI;10;10;10;NULL;10
+IPI;11;11;11;NULL;10
+IPI;NULL;NULL;NULL;NULL;NULL
+IPSS;0;0 Baix risc;0 Bajo riesgo;NULL;NULL
+IPSS;5;0.5 - 1 Risc intermig - 1;0.5 - 1 Riesgo intermedio - 1;NULL;NULL
+IPSS;10;1.5 - 2 Risc intermig - 2;1.5 - 2 Riesgo intermedio - 2;NULL;NULL
+IPSS;20;>2 Alt risc;>2 Alto riesgo;NULL;NULL
+IPSS;NULL;NULL;NULL;NULL;NULL
+IPSS_MF;0;0: Baix Risc;0: Riesgo bajo;NULL;NULL
+IPSS_MF;1;1: Risc intermig 1;1: Riesgo intermedio 1;NULL;NULL
+IPSS_MF;2;2: Risc intermig 2;2: Riesgo intermedio 2;NULL;NULL
+IPSS_MF;3;>=3: Alt risc;>=3: Riesgo alto;NULL;NULL
+IPSS_MF;NULL;NULL;NULL;NULL;NULL
+IPSS_R;255;Desconegut;Desconocido;NULL;255
+IPSS_R;1;Risc molt baix;Riesgo muy bajo;NULL;NULL
+IPSS_R;2;Risc baix;Riesgo bajo;NULL;NULL
+IPSS_R;3;Risc intermedi;Riesgo intermedio;NULL;NULL
+IPSS_R;4;Risc alt;Riesgo alto;NULL;NULL
+IPSS_R;5;Risc molt alt;Riesgo muy alto;NULL;NULL
+IPSS_R;NULL;NULL;NULL;NULL;NULL
+ISS;I;I: Beta-2-microglobulina inferior a 3,5 mg/L i albúmina igual o superior a 3,5 g/dL;I: Beta-2-microglobulina inferior a 3,5 mg/L i albúmina igual o superior a 3,5 g/dL;NULL;NULL
+ISS;II;II: No compleix criteris d'estadiatge I o III;II: No cumple criterios de estadiaje I o III;NULL;NULL
+ISS;III;III: Beta-2-microglublina superior a 5,5 mg/L;III: Beta-2-microglublina superior a 5,5 mg/L;NULL;NULL
+ISS;NULL;NULL;NULL;NULL;NULL
+JAK2;0;Negatiu;Negativo;NULL;NULL
+JAK2;1;Positiu;Positivo;NULL;NULL
+JAK2;255;Desconegut o indeterminat;Desconocido o indeterminado;NULL;NULL
+JAK2;NULL;NULL;NULL;NULL;NULL
+KI67;NULL;NULL;NULL;NULL;-1
+KI67;0;Negatiu;Negativo;NULL;0
+KI67;1;1%-9%;1%;NULL;1
+KI67;10;10-19%;10-19%;NULL;10
+KI67;20;20-29%;20-29%;NULL;20
+KI67;30;30-39%;30-39%;NULL;30
+KI67;40;40-49%;40-49%;NULL;40
+KI67;50;50-59%;50-59%;NULL;50
+KI67;60;60-69%;60-69%;NULL;60
+KI67;70;70-79%;70-79%;NULL;70
+KI67;80;80-89%;80-89%;NULL;80
+KI67;90;90-100%;90-100%;NULL;90
+KI67;100;Positiu;Positivo;NULL;100
+KI67;254;Indeterminat;Indeterminado;NULL;254
+KI67;255;Desconegut;Desconocido;NULL;255
+KRAS;0;Wildtype;Wildtype;NULL;NULL
+KRAS;1;Mutat;Mutado;NULL;NULL
+KRAS;254;Indeterminat;Indeterminado;NULL;NULL
+KRAS;255;Desconegut;Desconocido;NULL;NULL
+KRAS;NULL;NULL;NULL;NULL;NULL
+LAT;1;Dreta;Derecha;NULL;NULL
+LAT;2;Esquerra;Izquierda;NULL;NULL
+LAT;3;Unilateral SAI;Unilateral SAI;NULL;NULL
+LAT;4;Bilateral;Bilateral;NULL;NULL
+LAT;NULL;NULL;NULL;NULL;NULL
+M;0;0;0;7, 8;NULL
+M;1;1;1;7, 8;NULL
+M;1a;1a;1a;7, 8;NULL
+M;1b;1b;1b;7, 8;NULL
+M;1c;1c;1c;7, 8;NULL
+M;1d;1d;1d;7;NULL
+M;1e;1e;1e;7;NULL
+M;NULL;NULL;NULL;NULL;NULL
+M;X;X;X;NULL;NULL
+METILAT;1;Metilat;Metilato;NULL;NULL
+METILAT;2;No Metilat;No Metilato;NULL;NULL
+METILAT;9;Desconegut;Desconocido;NULL;NULL
+METILAT;NULL;NULL;NULL;NULL;NULL
+METODE_DX;1;1 - Diagnòstic clínic;1 - Diagnóstico clínico;NULL;NULL
+METODE_DX;2;2 - Investigació clínica;2 - Investigación clínica;NULL;NULL
+METODE_DX;4;4 - Tests inmunològics i/o bioquímics específics;4 - Tests inmunológicos y/o bioquímicos específicos;NULL;NULL
+METODE_DX;5;5 - Citologia;5 - Citología;NULL;NULL
+METODE_DX;6;6 - Biòpsia de metàstasi;6 - Biopsia de metástasis;NULL;NULL
+METODE_DX;7;7 - Biòpsia de tumor principal;7 - Biopsia de tumor principal;NULL;NULL
+METODE_DX;8;8 - Marcadors moleculars;8 - Marcadores moleculares;NULL;NULL
+METODE_DX;9;9 - Desconegut;9 - Desconocido;NULL;NULL
+METODE_DX;NULL;NULL;NULL;NULL;NULL
+MPL;0;Negatiu;Negativo;NULL;NULL
+MPL;1;Positiu;Positivo;NULL;NULL
+MPL;255;Desconegut o indeterminat;Desconocido o indeterminado;NULL;NULL
+MPL;NULL;NULL;NULL;NULL;NULL
+N;0;0;0;7, 8;NULL
+N;1;1;1;7, 8;NULL
+N;2;2;2;7, 8;NULL
+N;3;3;3;7, 8;NULL
+N;4;4;4;7, 8;NULL
+N;+;+;+;NULL;NULL
+N;1a;1a;1a;7, 8;NULL
+N;1a(sn);1a(sn);1a(sn);8;NULL
+N;1b;1b;1b;7, 8;NULL
+N;1c;1c;1c;7, 8;NULL
+N;1mi;1mi;1mi;7;NULL
+N;2a;2a;2a;7, 8;NULL
+N;2b;2b;2b;7, 8;NULL
+N;2c;2c;2c;7, 8;NULL
+N;3a;3a;3a;7, 8;NULL
+N;3b;3b;3b;7, 8;NULL
+N;3c;3c;3c;7, 8;NULL
+N;4a;4a;4a;8;NULL
+N;4b;4b;4b;8;NULL
+N;NULL;NULL;NULL;NULL;NULL
+N;X;X;X;7, 8;NULL
+PM_ENDOMETRI;254;Indeterminat;Indeterminado;NULL;254
+PM_ENDOMETRI;255;Desconegut;Desconocido;NULL;255
+PM_ENDOMETRI;0;Wildtype;Wildtype;NULL;NULL
+PM_ENDOMETRI;1;Mutat;Mutado;NULL;NULL
+PM_ENDOMETRI;2;Hipermutat;Hipermutado;NULL;NULL
+PM_ENDOMETRI;3;Ultramutat;Ultramutado;NULL;NULL
+PM_ENDOMETRI;NULL;NULL;NULL;NULL;NULL
+QUE_COMITE;1;Pulmó;Pulmón;NULL;NULL
+QUE_COMITE;2;Digestiu;Digestivo;NULL;NULL
+QUE_COMITE;3;Mama;Mama;NULL;NULL
+QUE_COMITE;4;Neuro-onco;Neuro-onco;NULL;NULL
+QUE_COMITE;5;P. Limfoide;P. Limfoide;NULL;NULL
+QUE_COMITE;6;P.Mieloide;P.Mieloide;NULL;NULL
+QUE_COMITE;7;Pell i melanoma;Piel y melanoma;NULL;NULL
+QUE_COMITE;8;Cap i Coll;Cabeza y cuello;NULL;NULL
+QUE_COMITE;9;Urològics;Urológicos;NULL;NULL
+QUE_COMITE;10;Ginecològics;Ginecológicos;NULL;NULL
+QUE_COMITE;11;Endocrí;Endocrino;NULL;NULL
+QUE_COMITE;12;Hepatopancreàticbiliar;Hepatopancreáticobiliar;NULL;NULL
+QUE_COMITE;13;Esofagogàstrics;Esofagogàstricos;NULL;NULL
+QUE_COMITE;14;Dolor;Dolor;NULL;NULL
+QUE_COMITE;15;Mieloma;Mieloma;NULL;NULL
+QUE_COMITE;16;Oncologia de precisió;Oncología de precisión;NULL;NULL
+QUE_COMITE;17;Colorectal;Colorectal;NULL;NULL
+QUE_COMITE;NULL;NULL;NULL;NULL;NULL
+RAI;0;0: Linfocitosis aislada;0: Linfocitosis aislada;NULL;NULL
+RAI;I;I: Linfocitosis, adenopatíes;I: Linfocitosis, adenopatías;NULL;NULL
+RAI;II;II: Linfocitosis, esplen o hepatomegalia;II: Linfocitosis, espleno o hepatomegalia;NULL;NULL
+RAI;III;III: Linfocitosis, anemia (Hb < 11 g/dL);III: Linfocitosis, anemia (Hb < 11 g/dL);NULL;NULL
+RAI;IV;IV: Linfocitosis, plaquetopenia (<100.000/mm3);IV: Linfocitosis, plaquetopenia (<100.000/mm3);NULL;NULL
+RAI;NULL;NULL;NULL;NULL;NULL
+RAS;0;Wildtype;Wildtype;NULL;NULL
+RAS;1;Mutat;Mutado;NULL;NULL
+RAS;254;Indeterminat;Indeterminado;NULL;NULL
+RAS;255;Desconegut;Desconocido;NULL;NULL
+RAS;NULL;NULL;NULL;NULL;NULL
+RECEP_ESTROG;NULL;NULL;NULL;NULL;-1
+RECEP_ESTROG;0;Negatiu;Negativo;NULL;0
+RECEP_ESTROG;1;1%;1%;NULL;1
+RECEP_ESTROG;2;2%;2%;NULL;2
+RECEP_ESTROG;3;3%;3%;NULL;3
+RECEP_ESTROG;4;4%;4%;NULL;4
+RECEP_ESTROG;5;5%;5%;NULL;5
+RECEP_ESTROG;6;6%;6%;NULL;6
+RECEP_ESTROG;7;7%;7%;NULL;7
+RECEP_ESTROG;8;8%;8%;NULL;8
+RECEP_ESTROG;9;9%;9%;NULL;9
+RECEP_ESTROG;10;10-19%;10-19%;NULL;10
+RECEP_ESTROG;20;20-29%;20-29%;NULL;20
+RECEP_ESTROG;30;30-39%;30-39%;NULL;30
+RECEP_ESTROG;40;40-49%;40-49%;NULL;40
+RECEP_ESTROG;50;50-59%;50-59%;NULL;50
+RECEP_ESTROG;60;60-69%;60-69%;NULL;60
+RECEP_ESTROG;70;70-79%;70-79%;NULL;70
+RECEP_ESTROG;80;80-89%;80-89%;NULL;80
+RECEP_ESTROG;90;90-100%;90-100%;NULL;90
+RECEP_ESTROG;100;Positiu;Positivo;NULL;100
+RECEP_ESTROG;254;Indeterminat;Indeterminado;NULL;254
+RECEP_ESTROG;255;Desconegut;Desconocido;NULL;255
+RECEP_PROGEST;NULL;NULL;NULL;NULL;-1
+RECEP_PROGEST;0;Negatiu;Negativo;NULL;0
+RECEP_PROGEST;1;1%;1%;NULL;1
+RECEP_PROGEST;2;2%;2%;NULL;2
+RECEP_PROGEST;3;3%;3%;NULL;3
+RECEP_PROGEST;4;4%;4%;NULL;4
+RECEP_PROGEST;5;5%;5%;NULL;5
+RECEP_PROGEST;6;6%;6%;NULL;6
+RECEP_PROGEST;7;7%;7%;NULL;7
+RECEP_PROGEST;8;8%;8%;NULL;8
+RECEP_PROGEST;9;9%;9%;NULL;9
+RECEP_PROGEST;10;10-19%;10-19%;NULL;10
+RECEP_PROGEST;20;20-29%;20-29%;NULL;20
+RECEP_PROGEST;30;30-39%;30-39%;NULL;30
+RECEP_PROGEST;40;40-49%;40-49%;NULL;40
+RECEP_PROGEST;50;50-59%;50-59%;NULL;50
+RECEP_PROGEST;60;60-69%;60-69%;NULL;60
+RECEP_PROGEST;70;70-79%;70-79%;NULL;70
+RECEP_PROGEST;80;80-89%;80-89%;NULL;80
+RECEP_PROGEST;90;90-100%;90-100%;NULL;90
+RECEP_PROGEST;100;Positiu;Positivo;NULL;100
+RECEP_PROGEST;254;Indeterminat;Indeterminado;NULL;254
+RECEP_PROGEST;255;Desconegut;Desconocido;NULL;255
+RISC_PV;0;0: Baix Risc;0: Riesgo bajo;NULL;NULL
+RISC_PV;1;1: Alt Risc;1: Riesgo alto;NULL;NULL
+RISC_PV;NULL;NULL;NULL;NULL;NULL
+RISC_TE;0;0: Baix Risc;0: Riesgo bajo;NULL;NULL
+RISC_TE;1;1: Alt Risc;1: Riesgo alto;NULL;NULL
+RISC_TE;NULL;NULL;NULL;NULL;NULL
+SEXE;D;Dona;Mujer;NULL;NULL
+SEXE;H;Home;Hombre;NULL;NULL
+SEXE;NULL;NULL;NULL;NULL;NULL
+SEXE;T;Trans;Trans;NULL;NULL
+SOKAL;0;<0.8: Baix risc;<0.8: Riesgo bajo;NULL;NULL
+SOKAL;1;0.8-1.2: Risc intermig;0.8-1.2: Riesgo intermedio;NULL;NULL
+SOKAL;2;>1.2: Alt risc;>1.2: Riesgo alto;NULL;NULL
+SOKAL;NULL;NULL;NULL;NULL;NULL
+T;0;0;0;7, 8;NULL
+T;1;1;1;7, 8;NULL
+T;2;2;2;7, 8;NULL
+T;3;3;3;7, 8;NULL
+T;4;4;4;7, 8;NULL
+T;1a;1a;1a;7, 8;NULL
+T;1a1;1a1;1a1;7, 8;NULL
+T;1a2;1a2;1a2;7, 8;NULL
+T;1b;1b;1b;7, 8;NULL
+T;1b1;1b1;1b1;7, 8;NULL
+T;1b2;1b2;1b2;7, 8;NULL
+T;1c;1c;1c;7, 8;NULL
+T;1c1;1c1;1c1;8;NULL
+T;1c2;1c2;1c2;8;NULL
+T;1c3;1c3;1c3;8;NULL
+T;1d;1d;1d;7, 8;NULL
+T;1mi;1mi;1mi;7, 8;NULL
+T;2a;2a;2a;7, 8;NULL
+T;2a1;2a1;2a1;7, 8;NULL
+T;2a2;2a2;2a2;7, 8;NULL
+T;2b;2b;2b;7, 8;NULL
+T;2c;2c;2c;7, 8;NULL
+T;2d;2d;2d;7, 8;NULL
+T;3a;3a;3a;7, 8;NULL
+T;3a,b;3a,b;3a,b;7;NULL
+T;3b;3b;3b;7, 8;NULL
+T;3c;3c;3c;7, 8;NULL
+T;3c,d;3c,d;3c,d;7;NULL
+T;3d;3d;3d;7, 8;NULL
+T;3e;3e;3e;7;NULL
+T;4a;4a;4a;7, 8;NULL
+T;4b;4b;4b;7, 8;NULL
+T;4c;4c;4c;7, 8;NULL
+T;4d;4d;4d;7, 8;NULL
+T;4e;4e;4e;7;NULL
+T;a;a;a;7, 8;NULL
+T;is;is;is;7, 8;NULL
+T;is(LAMN);is(LAMN);is(LAMN);7, 8;NULL
+T;ispd;ispd;ispd;7, 8;NULL
+T;ispu;ispu;ispu;7, 8;NULL
+T;NULL;NULL;NULL;NULL;NULL
+T;X;X;X;7, 8;NULL
+VACUNA;0;No vacunat;No vacunado;NULL;NULL
+VACUNA;1;Pfizer;Pfizer;NULL;NULL
+VACUNA;2;Moderna;Moderna;NULL;NULL
+VACUNA;3;Astra-Zeneca;Astra-Zeneca;NULL;NULL
+VACUNA;4;Jannsen;Jannsen;NULL;NULL
+VACUNA;5;Hipra;Hipra;NULL;NULL
+VACUNA;8;Altres;Otras;NULL;NULL
+VACUNA;9;Desconeguda;Desconocida;NULL;NULL
+VACUNA;NULL;NULL;NULL;NULL;NULL
+VPH;0;Negatiu;Negativo;NULL;NULL
+VPH;1;Positiu;Positivo;NULL;NULL
+VPH;9;Desconegut;Desconocido;NULL;NULL
+VPH;NULL;NULL;NULL;NULL;NULL
