@@ -1,6 +1,6 @@
 # Catàleg variables ASEDAT
 
-Recull de variables ASEDAT amb els valors que es guarden a la base de dades i les seves etiquetes.
+El fitxer **catalegVarsASEDAT.csv** és un recull de variables que fa servir ASEDAT amb els valors que es guarden a la base de dades i les seves etiquetes.
 
 **categ:** Nom intern de la variable a la base de dades.
 
