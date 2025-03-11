@@ -1,37 +1,37 @@
 categ;valor;descr;descrES;edicio;ordre
 AC;A;A: No infiltra a la muscular;A: No infiltra a la muscular;NULL;NULL
-AC;B;B: Infiltra a la muscular perÚ no als ganglis;B: Infiltra a la muscular pero no a los ganglios;NULL;NULL
+AC;B;B: Infiltra a la muscular per√≤ no als ganglis;B: Infiltra a la muscular pero no a los ganglios;NULL;NULL
 AC;B1;B1: No infiltra serosa ni grassa;B1: No infiltra serosa ni grasa;NULL;NULL
 AC;B2;B2: Infiltra serosa o grassa perirrectal;B2: Infiltra serosa o grasa perirrectal;NULL;NULL
-AC;B3;B3: Afecta Úrgans veÔns;B3: Afecta Ûrganos vecinos;NULL;NULL
-AC;C;C: AfectaciÛ ganglionar;C: AfectaciÛn ganglionar;NULL;NULL
-AC;C1;C1: A, B1 amb afectaciÛ de menys de 4 ganglis;C1: A, B1 con afectaciÛn de menos de 4 ganglios;NULL;NULL
-AC;C2;C2: A, B1, B2 amb afectaciÛ de 4 o mÈs ganglis;C2: A, B1, B2 con afectaciÛn de 4 o m·s ganglios;NULL;NULL
-AC;C3;C3: A, B1, B2, B3 amb afectaciÛ de ganglis mesentËrics;C3: A, B1, B2, B3 con afectaciÛn de ganglios mesentÈricos;NULL;NULL
-AC;D;D: Met‡stasi a dist‡ncia;D: Met·stasis a distancia;NULL;NULL
+AC;B3;B3: Afecta √≤rgans ve√Øns;B3: Afecta √≥rganos vecinos;NULL;NULL
+AC;C;C: Afectaci√≥ ganglionar;C: Afectaci√≥n ganglionar;NULL;NULL
+AC;C1;C1: A, B1 amb afectaci√≥ de menys de 4 ganglis;C1: A, B1 con afectaci√≥n de menos de 4 ganglios;NULL;NULL
+AC;C2;C2: A, B1, B2 amb afectaci√≥ de 4 o m√©s ganglis;C2: A, B1, B2 con afectaci√≥n de 4 o m√°s ganglios;NULL;NULL
+AC;C3;C3: A, B1, B2, B3 amb afectaci√≥ de ganglis mesent√®rics;C3: A, B1, B2, B3 con afectaci√≥n de ganglios mesent√©ricos;NULL;NULL
+AC;D;D: Met√†stasi a dist√†ncia;D: Met√°stasis a distancia;NULL;NULL
 AC;NULL;NULL;NULL;NULL;NULL
-ARBOR_E;I;I: AfectaciÛ díuna sola regiÛ ganglionar;I: AfectaciÛn de una sola regiÛn ganglionar;NULL;NULL
-ARBOR_E;IE;IE: AfectaciÛ díun lloc extranodal contigu al lloc ganglionar afectat;IE: AfectaciÛn de un lugar extranodal contiguo al lugar ganglionar afectado;NULL;NULL
-ARBOR_E;II;II: AfectaciÛ de ? 2 regions ganglionars del mateix costat del diafragma;II: AfectaciÛn de ? 2 regiones ganglionares del mismo lado del diafragma;NULL;NULL
-ARBOR_E;IIBulky;IIBulky: Massa nodal ˙nica >10cm o >1/3 d'ample del mediastÌ;IIBulky: Masa nodal ˙nica >10cm o >1/3 de ancho del mediastino;NULL;NULL
-ARBOR_E;IIE;IIE: AfectaciÛ díun Úrgan i ? 1 regiÛ ganglionar del mateix costat del diafragma;IIE: AfectaciÛn de un Ûrgano y ? 1 regiÛn ganglionar del mismo lado del diafragma;NULL;NULL
-ARBOR_E;III;III: AfectaciÛ de regions ganglionars als dos costats del diafragma;III: AfectaciÛn de regiones ganglionares a ambos lados del diafragma;NULL;NULL
-ARBOR_E;III1;III1: Amb o sense nÚduls esplËnics, hil∑liars, celÌacs o portals;III1: Con o sin nÛdulos esplÈnicos, hiliares, celÌacos o portales;NULL;NULL
-ARBOR_E;III2;III2: Amb nÚduls paraaÚrtics, ilÌacs o mesentËrics;III2: Con  nÛdulos paraaÛrticos, ilÌacos o mesentÈricos;NULL;NULL
-ARBOR_E;IIIS;IIIS: Amb afectaciÛ de melsa;IIIS: Con afectaciÛn de bazo;NULL;NULL
-ARBOR_E;IV;IV: Amb llocs extraganglionars mÈs enll‡ dels designats en E;IV: Con lugares extraganglionares m·s all· de los designados en E;NULL;NULL
+ARBOR_E;I;I: Afectaci√≥ d‚Äôuna sola regi√≥ ganglionar;I: Afectaci√≥n de una sola regi√≥n ganglionar;NULL;NULL
+ARBOR_E;IE;IE: Afectaci√≥ d‚Äôun lloc extranodal contigu al lloc ganglionar afectat;IE: Afectaci√≥n de un lugar extranodal contiguo al lugar ganglionar afectado;NULL;NULL
+ARBOR_E;II;II: Afectaci√≥ de ? 2 regions ganglionars del mateix costat del diafragma;II: Afectaci√≥n de ? 2 regiones ganglionares del mismo lado del diafragma;NULL;NULL
+ARBOR_E;IIBulky;IIBulky: Massa nodal √∫nica >10cm o >1/3 d'ample del mediast√≠;IIBulky: Masa nodal √∫nica >10cm o >1/3 de ancho del mediastino;NULL;NULL
+ARBOR_E;IIE;IIE: Afectaci√≥ d‚Äôun √≤rgan i ? 1 regi√≥ ganglionar del mateix costat del diafragma;IIE: Afectaci√≥n de un √≥rgano y ? 1 regi√≥n ganglionar del mismo lado del diafragma;NULL;NULL
+ARBOR_E;III;III: Afectaci√≥ de regions ganglionars als dos costats del diafragma;III: Afectaci√≥n de regiones ganglionares a ambos lados del diafragma;NULL;NULL
+ARBOR_E;III1;III1: Amb o sense n√≤duls espl√®nics, hil¬∑liars, cel√≠acs o portals;III1: Con o sin n√≥dulos espl√©nicos, hiliares, cel√≠acos o portales;NULL;NULL
+ARBOR_E;III2;III2: Amb n√≤duls paraa√≤rtics, il√≠acs o mesent√®rics;III2: Con  n√≥dulos paraa√≥rticos, il√≠acos o mesent√©ricos;NULL;NULL
+ARBOR_E;IIIS;IIIS: Amb afectaci√≥ de melsa;IIIS: Con afectaci√≥n de bazo;NULL;NULL
+ARBOR_E;IV;IV: Amb llocs extraganglionars m√©s enll√† dels designats en E;IV: Con lugares extraganglionares m√°s all√° de los designados en E;NULL;NULL
 ARBOR_E;NULL;NULL;NULL;NULL;NULL
-ARBOR_N;A;A: Sense simptomes;A: Sin sÌntomas;NULL;NULL
-ARBOR_N;B;B: Febre, sudoraciÛ profusa o pËrdua de pes;B: Fiebre, soduraciÛn profusa o pÈrdida de peso;NULL;NULL
+ARBOR_N;A;A: Sense simptomes;A: Sin s√≠ntomas;NULL;NULL
+ARBOR_N;B;B: Febre, sudoraci√≥ profusa o p√®rdua de pes;B: Fiebre, soduraci√≥n profusa o p√©rdida de peso;NULL;NULL
 ARBOR_N;NULL;NULL;NULL;NULL;NULL
 B_CARREGA;255;Desconegut o indeterminat;Desconocido o indeterminado;NULL;255
 B_CARREGA;1;B0: molt baixa;B0: muy baja;NULL;NULL
 B_CARREGA;2;B1: baixa;B1: baja;NULL;NULL
 B_CARREGA;3;B2: alta;B2: alta;NULL;NULL
 B_CARREGA;NULL;NULL;NULL;NULL;NULL
-BINET;A;A: Ni anËmia (Hb<11 g/dL) ni plaquetopËnia (<100x10^9/L). AfectaciÛ de <3 ‡rees ganglionars;A: Ni anemia (Hb<11 g/dL) ni plaquetopenia (<100x10^9/L). AfectaciÛn de <3 ·reas ganglionares;NULL;NULL
-BINET;B;B: Ni anËmia ni plaquetopËnia. AfectaciÛ de >=3 ‡rees ganglionars;B: Ni anemia ni plaquetopenia. AfectaciÛn de >=3 ·reas ganglionares;NULL;NULL
-BINET;C;C: AnËmia i/o plaquetopËnia +/- afectaciÛ d'una o mÈs ‡rees ganglionars;C: Anemia y/o plaquetopenia +/- afectaciÛn de una o m·s ·reas ganglionares;NULL;NULL
+BINET;A;A: Ni an√®mia (Hb<11 g/dL) ni plaquetop√®nia (<100x10^9/L). Afectaci√≥ de <3 √†rees ganglionars;A: Ni anemia (Hb<11 g/dL) ni plaquetopenia (<100x10^9/L). Afectaci√≥n de <3 √°reas ganglionares;NULL;NULL
+BINET;B;B: Ni an√®mia ni plaquetop√®nia. Afectaci√≥ de >=3 √†rees ganglionars;B: Ni anemia ni plaquetopenia. Afectaci√≥n de >=3 √°reas ganglionares;NULL;NULL
+BINET;C;C: An√®mia i/o plaquetop√®nia +/- afectaci√≥ d'una o m√©s √†rees ganglionars;C: Anemia y/o plaquetopenia +/- afectaci√≥n de una o m√°s √°reas ganglionares;NULL;NULL
 BINET;NULL;NULL;NULL;NULL;NULL
 BRAF;0;Wildtype;Wildtype;NULL;NULL
 BRAF;1;Mutat;Mutado;NULL;NULL
@@ -64,64 +64,64 @@ CALR;1;Positiu;Positivo;NULL;NULL
 CALR;255;Desconegut o indeterminat;Desconocido o indeterminado;NULL;NULL
 CALR;NULL;NULL;NULL;NULL;NULL
 CENTRES;1;Hospital Santa Caterina;Hospital Santa Caterina;NULL;NULL
-CENTRES;2;Hospital de PalamÛs;Hospital de PalamÛs;NULL;NULL
-CENTRES;3;Hospital Sant Jaume díOlot;Hospital Sant Jaume díOlot;NULL;NULL
+CENTRES;2;Hospital de Palam√≥s;Hospital de Palam√≥s;NULL;NULL
+CENTRES;3;Hospital Sant Jaume d‚ÄôOlot;Hospital Sant Jaume d‚ÄôOlot;NULL;NULL
 CENTRES;4;Hospital Dr. Josep Trueta;Hospital Dr. Josep Trueta;NULL;NULL
-CENTRES;5;ClÌnica Girona;ClÌnica Girona;NULL;NULL
+CENTRES;5;Cl√≠nica Girona;Cl√≠nica Girona;NULL;NULL
 CENTRES;6;Hospital de Figueres;Hospital de Figueres;NULL;NULL
-CENTRES;7;Hospital Comarcal de la Selva ñ Blanes;Hospital Comarcal de la Selva ñ Blanes;NULL;NULL
-CENTRES;8;ClÌnica Bofill;ClÌnica Bofill;NULL;NULL
-CENTRES;9;Centre Quir˙rgic Onyar (antiga ClÌnica AlianÁa);Centre Quir˙rgic Onyar (antiga ClÌnica AlianÁa);NULL;NULL
-CENTRES;10;ClÌnica Salus Infirmorum;ClÌnica Salus Infirmorum;NULL;NULL
+CENTRES;7;Hospital Comarcal de la Selva ‚Äì Blanes;Hospital Comarcal de la Selva ‚Äì Blanes;NULL;NULL
+CENTRES;8;Cl√≠nica Bofill;Cl√≠nica Bofill;NULL;NULL
+CENTRES;9;Centre Quir√∫rgic Onyar (antiga Cl√≠nica Alian√ßa);Centre Quir√∫rgic Onyar (antiga Cl√≠nica Alian√ßa);NULL;NULL
+CENTRES;10;Cl√≠nica Salus Infirmorum;Cl√≠nica Salus Infirmorum;NULL;NULL
 CENTRES;11;CTD;CTD;NULL;NULL
-CENTRES;12;Ambulatori G¸ell;Ambulatori G¸ell;NULL;NULL
-CENTRES;13;Gabinet DiagnÚstic;Gabinet DiagnÚstic;NULL;NULL
+CENTRES;12;Ambulatori G√ºell;Ambulatori G√ºell;NULL;NULL
+CENTRES;13;Gabinet Diagn√≤stic;Gabinet Diagn√≤stic;NULL;NULL
 CENTRES;14;Hospital de Bellvitge;Hospital de Bellvitge;NULL;NULL
 CENTRES;15;Hospital de Sant Pau;Hospital de Sant Pau;NULL;NULL
-CENTRES;16;ClÌnica Santa Creu;ClÌnica Santa Creu;NULL;NULL
-CENTRES;17;ClÌnica Dexeus;ClÌnica Dexeus;NULL;NULL
-CENTRES;18;Sagrada Familia ñ BCN;Sagrada Familia ñ BCN;NULL;NULL
+CENTRES;16;Cl√≠nica Santa Creu;Cl√≠nica Santa Creu;NULL;NULL
+CENTRES;17;Cl√≠nica Dexeus;Cl√≠nica Dexeus;NULL;NULL
+CENTRES;18;Sagrada Familia ‚Äì BCN;Sagrada Familia ‚Äì BCN;NULL;NULL
 CENTRES;19;Hospital de Can Ruti;Hospital de Can Ruti;NULL;NULL
-CENTRES;20;Hospital Parc TaulÌ;Hospital Parc TaulÌ;NULL;NULL
-CENTRES;21;Hospital de Campdev‡nol;Hospital de Campdev‡nol;NULL;NULL
-CENTRES;22;Hospital de la Vall díHebron;Hospital de la Vall díHebron;NULL;NULL
+CENTRES;20;Hospital Parc Taul√≠;Hospital Parc Taul√≠;NULL;NULL
+CENTRES;21;Hospital de Campdev√†nol;Hospital de Campdev√†nol;NULL;NULL
+CENTRES;22;Hospital de la Vall d‚ÄôHebron;Hospital de la Vall d‚ÄôHebron;NULL;NULL
 CENTRES;23;Consulta privada Dr. Viladiu;Consulta privada Dr. Viladiu;NULL;NULL
-CENTRES;24;ClÌnica QuirÛn;ClÌnica QuirÛn;NULL;NULL
+CENTRES;24;Cl√≠nica Quir√≥n;Cl√≠nica Quir√≥n;NULL;NULL
 CENTRES;25;Hospital de Vic;Hospital de Vic;NULL;NULL
-CENTRES;26;Hospital ClÌnic i Provincial;Hospital ClÌnic i Provincial;NULL;NULL
-CENTRES;27;ClÌnica Corach·n;ClÌnica Corach·n;NULL;NULL
-CENTRES;28;ClÌnica PlatÛn;ClÌnica PlatÛn;NULL;NULL
+CENTRES;26;Hospital Cl√≠nic i Provincial;Hospital Cl√≠nic i Provincial;NULL;NULL
+CENTRES;27;Cl√≠nica Corach√°n;Cl√≠nica Corach√°n;NULL;NULL
+CENTRES;28;Cl√≠nica Plat√≥n;Cl√≠nica Plat√≥n;NULL;NULL
 CENTRES;29;Hospital de Sant Celoni;Hospital de Sant Celoni;NULL;NULL
 CENTRES;30;Hospital Sant Jaume de Calella;Hospital Sant Jaume de Calella;NULL;NULL
 CENTRES;31;Hospital del Mar;Hospital del Mar;NULL;NULL
 CENTRES;32;Registro Nacional de Tumores Infantiles;Registro Nacional de Tumores Infantiles;NULL;NULL
-CENTRES;33;FundaciÛ Puigvert;FundaciÛ Puigvert;NULL;NULL
-CENTRES;34;ClÌnica Sagrat Cor;ClÌnica Sagrat Cor;NULL;NULL
+CENTRES;33;Fundaci√≥ Puigvert;Fundaci√≥ Puigvert;NULL;NULL
+CENTRES;34;Cl√≠nica Sagrat Cor;Cl√≠nica Sagrat Cor;NULL;NULL
 CENTRES;35;Hospital Sant Joan de Deu;Hospital Sant Joan de Deu;NULL;NULL
-CENTRES;36;Geri‡tric Creu de Palau ñ Girona;Geri‡tric Creu de Palau ñ Girona;NULL;NULL
-CENTRES;37;Centre DermatolÚgic Girona;Centre DermatolÚgic Girona;NULL;NULL
+CENTRES;36;Geri√†tric Creu de Palau ‚Äì Girona;Geri√†tric Creu de Palau ‚Äì Girona;NULL;NULL
+CENTRES;37;Centre Dermatol√≤gic Girona;Centre Dermatol√≤gic Girona;NULL;NULL
 CENTRES;38;Teknon;Teknon;NULL;NULL
 CENTRES;40;CEESCAT;CEESCAT;NULL;NULL
-CENTRES;41;Hospital MoisÈs Broggi;Hospital MoisÈs Broggi;NULL;NULL
+CENTRES;41;Hospital Mois√©s Broggi;Hospital Mois√©s Broggi;NULL;NULL
 CENTRES;42;CSS Bernat Jaume Figueres;CSS Bernat Jaume Figueres;NULL;NULL
-CENTRES;43;CSS Gent Gran PalamÛs;CSS Gent Gran PalamÛs;NULL;NULL
-CENTRES;44;Hospital de MatarÛ;Hospital de MatarÛ;NULL;NULL
+CENTRES;43;CSS Gent Gran Palam√≥s;CSS Gent Gran Palam√≥s;NULL;NULL
+CENTRES;44;Hospital de Matar√≥;Hospital de Matar√≥;NULL;NULL
 CENTRES;96;ABS;ABS;NULL;NULL
 CENTRES;97;privat Catalunya;privado Catalunya;NULL;NULL
-CENTRES;98;Altres paÔsos;Otros paises;NULL;NULL
+CENTRES;98;Altres pa√Øsos;Otros paises;NULL;NULL
 CENTRES;99;Desconegut;Desconocido;NULL;NULL
 CENTRES;NULL;NULL;NULL;NULL;NULL
 CLARK;255;Desconegut;Desconocido;NULL;255
-CLARK;I;"I: Lesions que nomÈs comprometen líepidermis (melanoma in situ); no invasiu";"I: Lesiones que solo compromenten epidermis; no invasivo";NULL;NULL
-CLARK;II;"II: InvasiÛ de la dermis papil∑lar; no arriba a la interfÌcie dËrmica papil∑lar reticular";"II: InvasiÛn de la dermis papilar; no llega a la interfaz dÈrmica papilar reticular";NULL;NULL
-CLARK;III;III: La invasiÛ omple i expandeix la dermis papil∑lar, perÚ no penetra la dermis reticular;III: La invasiÛn llena y expande la dermis papilar, pero no penetra dermis reticular;NULL;NULL
-CLARK;IV;IV: InvasiÛ de la dermis reticular, perÚ no del teixit subcutani;IV: InvasiÛn de la dermis reticular, pero no del tejido subcutaneo;NULL;NULL
+CLARK;I;"I: Lesions que nom√©s comprometen l¬¥epidermis (melanoma in situ); no invasiu";"I: Lesiones que solo compromenten epidermis; no invasivo";NULL;NULL
+CLARK;II;"II: Invasi√≥ de la dermis papil¬∑lar; no arriba a la interf√≠cie d√®rmica papil¬∑lar reticular";"II: Invasi√≥n de la dermis papilar; no llega a la interfaz d√©rmica papilar reticular";NULL;NULL
+CLARK;III;III: La invasi√≥ omple i expandeix la dermis papil¬∑lar, per√≤ no penetra la dermis reticular;III: La invasi√≥n llena y expande la dermis papilar, pero no penetra dermis reticular;NULL;NULL
+CLARK;IV;IV: Invasi√≥ de la dermis reticular, per√≤ no del teixit subcutani;IV: Invasi√≥n de la dermis reticular, pero no del tejido subcutaneo;NULL;NULL
 CLARK;NULL;NULL;NULL;NULL;NULL
-CLARK;V;V: InvasiÛ a travÈs de la dermis reticular del teixit subcutani;V: InvasiÛn a travÈs de la dermis reticular del tejido subcutaneo;NULL;NULL
-COMITE;1;SÌ;SÌ;NULL;NULL
+CLARK;V;V: Invasi√≥ a trav√©s de la dermis reticular del teixit subcutani;V: Invasi√≥n a trav√©s de la dermis reticular del tejido subcutaneo;NULL;NULL
+COMITE;1;S√≠;S√≠;NULL;NULL
 COMITE;NULL;NULL;NULL;NULL;NULL
 COVID;0;No;No;NULL;NULL
-COVID;1;SÌ;SÌ;NULL;NULL
+COVID;1;S√≠;S√≠;NULL;NULL
 COVID;NULL;NULL;NULL;NULL;NULL
 EGFR;0;Wildtype;Wildtype;NULL;NULL
 EGFR;1;Mutat;Mutado;NULL;NULL
@@ -206,24 +206,24 @@ G_PN;1;Positiu;Positivo;NULL;NULL
 G_PN;9;Desconegut;Desconocido;NULL;NULL
 G_PN;NULL;NULL;NULL;NULL;NULL
 G_SN;0;No;No;NULL;NULL
-G_SN;1;SÌ;SÌ;NULL;NULL
+G_SN;1;S√≠;S√≠;NULL;NULL
 G_SN;9;Desconegut;Desconocido;NULL;NULL
 G_SN;NULL;NULL;NULL;NULL;NULL
-GLEASON;1;1: 6 o menys (c‡ncer de baix grau);1: 6 o menos (c·ncer de grado bajo);NULL;1
-GLEASON;2;2: 3 + 4 = 7 (c‡ncer de mitj‡ grau);2: 3 + 4 = 7 (c·ncer de grado medio);NULL;2
-GLEASON;3;3: 4 +3 = 7 (c‡ncer de mitj‡ grau);3: 4 +3 = 7 (c·ncer de grado medio);NULL;3
-GLEASON;4;4: 8 (c‡ncer de grau alt);4: 8 (c·ncer de grado alto);NULL;4
-GLEASON;5;5: 9 a 10 (c‡ncer de grau alt);5: 9 a 10 (c·ncer de grado alto);NULL;5
+GLEASON;1;1: 6 o menys (c√†ncer de baix grau);1: 6 o menos (c√°ncer de grado bajo);NULL;1
+GLEASON;2;2: 3 + 4 = 7 (c√†ncer de mitj√† grau);2: 3 + 4 = 7 (c√°ncer de grado medio);NULL;2
+GLEASON;3;3: 4 +3 = 7 (c√†ncer de mitj√† grau);3: 4 +3 = 7 (c√°ncer de grado medio);NULL;3
+GLEASON;4;4: 8 (c√†ncer de grau alt);4: 8 (c√°ncer de grado alto);NULL;4
+GLEASON;5;5: 9 a 10 (c√†ncer de grau alt);5: 9 a 10 (c√°ncer de grado alto);NULL;5
 GLEASON;255;Desconegut;Desconocido;NULL;255
 GLEASON;NULL;NULL;NULL;NULL;NULL
 GRAU_DIF;1;1: Ben diferenciat;1: Bien diferenciado;NULL;NULL
 GRAU_DIF;2;2: Moderadament diferenciat;2: Moderadamente diferenciado;NULL;NULL
 GRAU_DIF;3;3: Pobrament diferenciat;3: Pobremente diferenciado;NULL;NULL
-GRAU_DIF;4;4: Indiferenciat, anapl‡stic;4: Indiferenciado, anapl·stico;NULL;NULL
-GRAU_DIF;5;"5: CËl∑lula T; precursor T";"5: CÈlula T; precursor T";NULL;NULL
-GRAU_DIF;6;"6: CËl∑lula B, Pre-B; precursor B";"6: CÈlula B, Pre-B; precursor B";NULL;NULL
-GRAU_DIF;7;"7: CËl∑lula nul∑la; No T i no B";"7: CÈlula nula; No T y no B";NULL;NULL
-GRAU_DIF;8;8: CËl∑lules NK  (cËl∑lula assassina natural);8: CÈlulas NK (cÈlula asesina natural);NULL;NULL
+GRAU_DIF;4;4: Indiferenciat, anapl√†stic;4: Indiferenciado, anapl√°stico;NULL;NULL
+GRAU_DIF;5;"5: C√®l¬∑lula T; precursor T";"5: C√©lula T; precursor T";NULL;NULL
+GRAU_DIF;6;"6: C√®l¬∑lula B, Pre-B; precursor B";"6: C√©lula B, Pre-B; precursor B";NULL;NULL
+GRAU_DIF;7;"7: C√®l¬∑lula nul¬∑la; No T i no B";"7: C√©lula nula; No T y no B";NULL;NULL
+GRAU_DIF;8;8: C√®l¬∑lules NK  (c√®l¬∑lula assassina natural);8: C√©lulas NK (c√©lula asesina natural);NULL;NULL
 GRAU_DIF;9;9: No especificat;9: No especificado;NULL;NULL
 GRAU_DIF;NULL;NULL;NULL;NULL;NULL
 GRAU_SNC;I;I;I;NULL;NULL
@@ -279,7 +279,7 @@ IPSS_R;3;Risc intermedi;Riesgo intermedio;NULL;NULL
 IPSS_R;4;Risc alt;Riesgo alto;NULL;NULL
 IPSS_R;5;Risc molt alt;Riesgo muy alto;NULL;NULL
 IPSS_R;NULL;NULL;NULL;NULL;NULL
-ISS;I;I: Beta-2-microglobulina inferior a 3,5 mg/L i alb˙mina igual o superior a 3,5 g/dL;I: Beta-2-microglobulina inferior a 3,5 mg/L i alb˙mina igual o superior a 3,5 g/dL;NULL;NULL
+ISS;I;I: Beta-2-microglobulina inferior a 3,5 mg/L i alb√∫mina igual o superior a 3,5 g/dL;I: Beta-2-microglobulina inferior a 3,5 mg/L i alb√∫mina igual o superior a 3,5 g/dL;NULL;NULL
 ISS;II;II: No compleix criteris d'estadiatge I o III;II: No cumple criterios de estadiaje I o III;NULL;NULL
 ISS;III;III: Beta-2-microglublina superior a 5,5 mg/L;III: Beta-2-microglublina superior a 5,5 mg/L;NULL;NULL
 ISS;NULL;NULL;NULL;NULL;NULL
@@ -325,12 +325,12 @@ METILAT;1;Metilat;Metilato;NULL;NULL
 METILAT;2;No Metilat;No Metilato;NULL;NULL
 METILAT;9;Desconegut;Desconocido;NULL;NULL
 METILAT;NULL;NULL;NULL;NULL;NULL
-METODE_DX;1;1 - DiagnÚstic clÌnic;1 - DiagnÛstico clÌnico;NULL;NULL
-METODE_DX;2;2 - InvestigaciÛ clÌnica;2 - InvestigaciÛn clÌnica;NULL;NULL
-METODE_DX;4;4 - Tests inmunolÚgics i/o bioquÌmics especÌfics;4 - Tests inmunolÛgicos y/o bioquÌmicos especÌficos;NULL;NULL
-METODE_DX;5;5 - Citologia;5 - CitologÌa;NULL;NULL
-METODE_DX;6;6 - BiÚpsia de met‡stasi;6 - Biopsia de met·stasis;NULL;NULL
-METODE_DX;7;7 - BiÚpsia de tumor principal;7 - Biopsia de tumor principal;NULL;NULL
+METODE_DX;1;1 - Diagn√≤stic cl√≠nic;1 - Diagn√≥stico cl√≠nico;NULL;NULL
+METODE_DX;2;2 - Investigaci√≥ cl√≠nica;2 - Investigaci√≥n cl√≠nica;NULL;NULL
+METODE_DX;4;4 - Tests inmunol√≤gics i/o bioqu√≠mics espec√≠fics;4 - Tests inmunol√≥gicos y/o bioqu√≠micos espec√≠ficos;NULL;NULL
+METODE_DX;5;5 - Citologia;5 - Citolog√≠a;NULL;NULL
+METODE_DX;6;6 - Bi√≤psia de met√†stasi;6 - Biopsia de met√°stasis;NULL;NULL
+METODE_DX;7;7 - Bi√≤psia de tumor principal;7 - Biopsia de tumor principal;NULL;NULL
 METODE_DX;8;8 - Marcadors moleculars;8 - Marcadores moleculares;NULL;NULL
 METODE_DX;9;9 - Desconegut;9 - Desconocido;NULL;NULL
 METODE_DX;NULL;NULL;NULL;NULL;NULL
@@ -366,7 +366,7 @@ PM_ENDOMETRI;1;Mutat;Mutado;NULL;NULL
 PM_ENDOMETRI;2;Hipermutat;Hipermutado;NULL;NULL
 PM_ENDOMETRI;3;Ultramutat;Ultramutado;NULL;NULL
 PM_ENDOMETRI;NULL;NULL;NULL;NULL;NULL
-QUE_COMITE;1;PulmÛ;PulmÛn;NULL;NULL
+QUE_COMITE;1;Pulm√≥;Pulm√≥n;NULL;NULL
 QUE_COMITE;2;Digestiu;Digestivo;NULL;NULL
 QUE_COMITE;3;Mama;Mama;NULL;NULL
 QUE_COMITE;4;Neuro-onco;Neuro-onco;NULL;NULL
@@ -374,18 +374,18 @@ QUE_COMITE;5;P. Limfoide;P. Limfoide;NULL;NULL
 QUE_COMITE;6;P.Mieloide;P.Mieloide;NULL;NULL
 QUE_COMITE;7;Pell i melanoma;Piel y melanoma;NULL;NULL
 QUE_COMITE;8;Cap i Coll;Cabeza y cuello;NULL;NULL
-QUE_COMITE;9;UrolÚgics;UrolÛgicos;NULL;NULL
-QUE_COMITE;10;GinecolÚgics;GinecolÛgicos;NULL;NULL
-QUE_COMITE;11;EndocrÌ;Endocrino;NULL;NULL
-QUE_COMITE;12;Hepatopancre‡ticbiliar;Hepatopancre·ticobiliar;NULL;NULL
-QUE_COMITE;13;Esofagog‡strics;Esofagog‡stricos;NULL;NULL
+QUE_COMITE;9;Urol√≤gics;Urol√≥gicos;NULL;NULL
+QUE_COMITE;10;Ginecol√≤gics;Ginecol√≥gicos;NULL;NULL
+QUE_COMITE;11;Endocr√≠;Endocrino;NULL;NULL
+QUE_COMITE;12;Hepatopancre√†ticbiliar;Hepatopancre√°ticobiliar;NULL;NULL
+QUE_COMITE;13;Esofagog√†strics;Esofagog√†stricos;NULL;NULL
 QUE_COMITE;14;Dolor;Dolor;NULL;NULL
 QUE_COMITE;15;Mieloma;Mieloma;NULL;NULL
-QUE_COMITE;16;Oncologia de precisiÛ;OncologÌa de precisiÛn;NULL;NULL
+QUE_COMITE;16;Oncologia de precisi√≥;Oncolog√≠a de precisi√≥n;NULL;NULL
 QUE_COMITE;17;Colorectal;Colorectal;NULL;NULL
 QUE_COMITE;NULL;NULL;NULL;NULL;NULL
 RAI;0;0: Linfocitosis aislada;0: Linfocitosis aislada;NULL;NULL
-RAI;I;I: Linfocitosis, adenopatÌes;I: Linfocitosis, adenopatÌas;NULL;NULL
+RAI;I;I: Linfocitosis, adenopat√≠es;I: Linfocitosis, adenopat√≠as;NULL;NULL
 RAI;II;II: Linfocitosis, esplen o hepatomegalia;II: Linfocitosis, espleno o hepatomegalia;NULL;NULL
 RAI;III;III: Linfocitosis, anemia (Hb < 11 g/dL);III: Linfocitosis, anemia (Hb < 11 g/dL);NULL;NULL
 RAI;IV;IV: Linfocitosis, plaquetopenia (<100.000/mm3);IV: Linfocitosis, plaquetopenia (<100.000/mm3);NULL;NULL
